@@ -1,1 +1,1 @@
-# TIC2_Bachillerato-I.E.S.-Sierra-Luna-
+# TIC2_Bachillerato_I.E.S.SierraLuna
